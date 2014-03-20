@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "zombie": "~2.0.0-alpha31",
+    "json2csv": "~2.2.1"
+  }
+}
